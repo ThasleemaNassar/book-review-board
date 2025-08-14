@@ -26,7 +26,7 @@ A full-stack MERN application where users can post books they’ve read, and oth
 ### 1️⃣ Clone the repository
 
 ```bash
-git https://github.com/ThasleemaNassar/book-review-board.git
+git clone https://github.com/ThasleemaNassar/book-review-board.git
 cd book-review-board
 
 ### 2️⃣ Backend Setup
